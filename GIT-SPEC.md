@@ -29,4 +29,4 @@ Commit standards/lengths
 
 Commit messages are built up off a summary/title (first line) and a description (everything after and on the third line). This is very standard.
 
-Summaries and descriptions can at maximum be 80 chars long per line, however it is preferable for the summary to be 50, and the description to be 80. Use `:set linewidth=NUM` in Vi derivatives to make your life easier.
+Summaries and descriptions can at maximum be 80 chars long per line, however it is preferable for the summary to be 50, and the description to be 80 or 72. Use `:set linewidth=NUM` in Vi derivatives to make your life easier.
