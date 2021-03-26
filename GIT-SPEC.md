@@ -10,12 +10,12 @@ I recently (24th of March) started using labels commiting, that is to make thing
 
 | Label			| Meaning									|
 |:--------------|------------------------------------------:|
-| [NEW]			| A new file								|
 | [FIX]			| A singular fix to one bug/problem			|
+| [NEW]			| A new file								|
 | [FIXES]		| Multiple fixes to multiple bugs/problems	|
 | [MISTAKE] 	| Grammatical errors or minor errors I made last commit or similar, do not confuse with [CHANGES] |
 | [CHANGE(s)]	| Minor changes, rewording a document, comments etc, this is not to be mistaken with [MISTAKE] |
-| [FEATURE(s)] 	| A singular new feature					|
+| [FEATURE(s)] 	| New features don't mistake with [ADDITIONS] |
 | [ADDITION(s)]	| New content or changes that don't belong with [CHANGES] nor [FEATURES] |
 | 				|											|
 | [OTHER]		| If no other label is suitable use this	|
